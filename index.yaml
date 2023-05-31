@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx_osm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-31T10:48:16.11640983-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 54e21306dfcf4c47d40c3e49ec3e1f114519b9f489777beba6ac28bef0eeda62
+    name: nginx_osm
+    type: application
+    urls:
+    - https://seltonlucas.github.io/helm-chart/nginx_osm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-31T10:48:16.115427652-03:00"
