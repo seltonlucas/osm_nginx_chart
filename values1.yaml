@@ -502,7 +502,7 @@ serverBlock: |-
   server {
     listen 0.0.0.0:8080;
     location / {
-      return 200 "slice1!";
+      return 200 "slice1! \n";
     }
   }
 ##   server {
@@ -518,7 +518,6 @@ serverBlock: |-
 ##     }
 ##   }
 ##
-serverBlock: ""
 ## @param existingServerBlockConfigmap ConfigMap with custom server block to be added to NGINX configuration
 ## NOTE: This will override serverBlock
 ##
