@@ -1,14 +1,25 @@
 apiVersion: v1
 entries:
-  nginx_osm:
+  slice1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T10:48:16.11640983-03:00"
+    created: "2023-10-09T20:53:28.490132003-03:00"
     description: A Helm chart for Kubernetes
-    digest: 54e21306dfcf4c47d40c3e49ec3e1f114519b9f489777beba6ac28bef0eeda62
-    name: nginx_osm
+    digest: 175ebe726db9697eb5f1e9da4d89b15f4dfeccb14283dafcb968b766587d7cd6
+    name: slice1
     type: application
     urls:
-    - https://seltonlucas.github.io/helm-chart/nginx_osm-0.1.0.tgz
+    - https://seltonlucas.github.io/osm_nginx_chart/slice1-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-31T10:48:16.115427652-03:00"
+  slice2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-09T20:53:28.491042638-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 2074e5aa356504a7a6b535ddfad1afd73d038a37f8acc33e3a6510d176357336
+    name: slice2
+    type: application
+    urls:
+    - https://seltonlucas.github.io/osm_nginx_chart/slice2-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-09T20:53:28.488719818-03:00"
