@@ -3,9 +3,13 @@ entries:
   slice1:
   - apiVersion: v2
     appVersion: 1.16.0
+<<<<<<< Updated upstream
     created: "2023-10-09T21:01:51.578913168-03:00"
+=======
+    created: "2023-10-09T21:14:50.393352065-03:00"
+>>>>>>> Stashed changes
     description: A Helm chart for Kubernetes
-    digest: 175ebe726db9697eb5f1e9da4d89b15f4dfeccb14283dafcb968b766587d7cd6
+    digest: 1e8eff5d32c89bd55c0a14a9c07652203edee7ec3ea3d718ddb339c458c3e922
     name: slice1
     type: application
     urls:
@@ -14,12 +18,20 @@ entries:
   slice2:
   - apiVersion: v2
     appVersion: 1.16.0
+<<<<<<< Updated upstream
     created: "2023-10-09T21:01:51.579799528-03:00"
+=======
+    created: "2023-10-09T21:14:50.394020811-03:00"
+>>>>>>> Stashed changes
     description: A Helm chart for Kubernetes
-    digest: 2074e5aa356504a7a6b535ddfad1afd73d038a37f8acc33e3a6510d176357336
+    digest: 70cec6cf900ee52400f93fce32e3f138515b2186938fa10c4c64ed69f1157b9f
     name: slice2
     type: application
     urls:
     - https://seltonlucas.github.io/osm_nginx_chart/slice2-0.1.0.tgz
     version: 0.1.0
+<<<<<<< Updated upstream
 generated: "2023-10-09T21:01:51.577666163-03:00"
+=======
+generated: "2023-10-09T21:14:50.392419262-03:00"
+>>>>>>> Stashed changes
