@@ -3,7 +3,7 @@ entries:
   slice1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-09T20:53:28.490132003-03:00"
+    created: "2023-10-09T21:01:51.578913168-03:00"
     description: A Helm chart for Kubernetes
     digest: 175ebe726db9697eb5f1e9da4d89b15f4dfeccb14283dafcb968b766587d7cd6
     name: slice1
@@ -14,7 +14,7 @@ entries:
   slice2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-09T20:53:28.491042638-03:00"
+    created: "2023-10-09T21:01:51.579799528-03:00"
     description: A Helm chart for Kubernetes
     digest: 2074e5aa356504a7a6b535ddfad1afd73d038a37f8acc33e3a6510d176357336
     name: slice2
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://seltonlucas.github.io/osm_nginx_chart/slice2-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-09T20:53:28.488719818-03:00"
+generated: "2023-10-09T21:01:51.577666163-03:00"
